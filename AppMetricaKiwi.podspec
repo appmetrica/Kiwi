@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name            = 'Kiwi'
+  s.name            = 'AppMetricaKiwi'
   s.version         = '3.0.2'
   s.summary         = 'A Behavior Driven Development library for iOS and OS X.'
   s.homepage        = 'https://github.com/appmetrica/Kiwi'

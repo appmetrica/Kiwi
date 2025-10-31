@@ -6,8 +6,9 @@ import PackageDescription
 let package = Package(
     name: "Kiwi",
     platforms: [
-        .iOS(.v9),
-        .macOS(.v10_10)
+        .iOS(.v13),
+        .tvOS(.v13),
+        .macOS(.v10_13)
     ],
     products: [
         .library(name: "Kiwi", targets: ["Kiwi"])
