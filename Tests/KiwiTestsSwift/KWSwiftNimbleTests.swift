@@ -1,4 +1,4 @@
-import Kiwi
+import AppMetricaKiwi
 import Nimble
 
 final class KWSwiftNimbleTests: KWSpec {

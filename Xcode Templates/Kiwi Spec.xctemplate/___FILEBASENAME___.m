@@ -6,7 +6,7 @@
 //  Copyright ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-#import <Kiwi/Kiwi.h>
+#import <AppMetricaKiwi/AppMetricaKiwi.h>
 #import "___VARIABLE_testedClass___.h"
 
 

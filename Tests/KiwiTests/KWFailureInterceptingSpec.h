@@ -1,4 +1,4 @@
-#import <Kiwi/Kiwi.h>
+#import <AppMetricaKiwi/AppMetricaKiwi.h>
 
 // Custom spec class that is capable of intercepting test failures before
 // XCTest records them. Test failures are not recorded by default, see

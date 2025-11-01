@@ -1,6 +1,6 @@
 #if !SWIFT_PACKAGE
 @import Nimble;
-#import <Kiwi/Kiwi.h>
+#import <AppMetricaKiwi/AppMetricaKiwi.h>
 #import "KWFailureInterceptingSpec.h"
 #import "KiwiTestConfiguration.h"
 
