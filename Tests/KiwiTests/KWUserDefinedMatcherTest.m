@@ -6,7 +6,7 @@
 //  Copyright 2011 Allen Ding. All rights reserved.
 //
 
-#import <Kiwi/Kiwi.h>
+#import <AppMetricaKiwi/AppMetricaKiwi.h>
 #import "KiwiTestConfiguration.h"
 #import "TestClasses.h"
 

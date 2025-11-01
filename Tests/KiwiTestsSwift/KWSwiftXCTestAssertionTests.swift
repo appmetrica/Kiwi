@@ -1,4 +1,4 @@
-import Kiwi
+import AppMetricaKiwi
 import XCTest
 
 final class SwiftXCTestAssertionTests: KWSpec {

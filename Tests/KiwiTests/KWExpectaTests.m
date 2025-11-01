@@ -1,5 +1,5 @@
 #if !SWIFT_PACKAGE
-#import <Kiwi/Kiwi.h>
+#import <AppMetricaKiwi/AppMetricaKiwi.h>
 #import <Expecta/Expecta.h>
 #import "KWFailureInterceptingSpec.h"
 #import "KiwiTestConfiguration.h"

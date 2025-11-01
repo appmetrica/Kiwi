@@ -4,7 +4,7 @@
 // Copyright 2013 Eloy Durán. All rights reserved.
 //
 
-#import <Kiwi/Kiwi.h>
+#import <AppMetricaKiwi/AppMetricaKiwi.h>
 #import "KiwiTestConfiguration.h"
 #import "TestClasses.h"
 
